@@ -1,48 +1,47 @@
-# Hello there I am Xulio Xaviert 👋
+# Hello — I'm Xulio Xaviert 👋
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
-
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 ## My tech stack
 
-## 🚀 Desarrollador Web!
+## 🚀 Web Developer!
 
-Apasionado por crear experiencias web excepcionales y soluciones tecnológicas innovadoras. Me especializo en el desarrollo de aplicaciones web modernas, escalables y de alto rendimiento.
+Passionate about creating exceptional web experiences and innovative technology solutions. I specialize in building modern, scalable, high-performance web applications.
 
 ---
 
-## 💻 Stack Tecnológico
+## 💻 Tech Stack
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-### Bases de Datos
+
+### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-### Herramientas y Tecnologías
+### Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xulioxaviert&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -55,44 +54,44 @@ Apasionado por crear experiencias web excepcionales y soluciones tecnológicas i
 
 ---
 
-## 🔭 En lo que estoy trabajando
+## 🔭 What I'm working on
 
-- 🌱 Aprendiendo constantemente nuevas tecnologías y mejores prácticas
-- 💡 Desarrollando proyectos personales y contribuyendo a código abierto
-- 🎯 Mejorando mis habilidades en arquitectura de software y patrones de diseño
-- 🚀 Explorando el mundo del desarrollo web moderno y tecnologías emergentes
-
----
-
-## 🤝 Colaboración
-
-- 👯 Me encanta colaborar en proyectos de código abierto
-- 💬 Pregúntame sobre desarrollo web, JavaScript, React o cualquier tecnología que domino
-- 🤔 Siempre abierto a aprender y compartir conocimientos
+- 🌱 Continuously learning new technologies and best practices
+- 💡 Building personal projects and contributing to open source
+- 🎯 Improving my skills in software architecture and design patterns
+- 🚀 Exploring modern web development and emerging technologies
 
 ---
 
-## 📫 Conecta conmigo
+## 🤝 Collaboration
+
+- 👯 I love collaborating on open-source projects
+- 💬 Ask me about web development, JavaScript, React, or any of the technologies I work with
+- 🤔 Always open to learning and sharing knowledge
+
+---
+
+## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xulioxaviert)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/xulioxaviert)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://xulioxaviert.dev)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@xulioxaviert.dev)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://portfolio-xulioxaviert.vercel.app/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@xulioxaviert@gmail.com)
 
 ---
 
-## ⚡ Dato curioso
+## ⚡ Fun fact
 
-Cuando no estoy programando, me gusta explorar nuevas tecnologías, contribuir a la comunidad de desarrolladores y mantenerme actualizado con las últimas tendencias en desarrollo web.
+When I'm not coding, I enjoy exploring new technologies, contributing to the developer community, and staying up to date with the latest trends in web development.
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=xulioxaviert&color=blueviolet&style=flat-square&label=Visitas+al+perfil" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=xulioxaviert&color=blueviolet&style=flat-square&label=Profile+views" alt="Profile views" />
 </div>
 
 <div align="center">
   
-  ### 💡 "El código es como el humor. Cuando tienes que explicarlo, es malo." - Cory House
+  ### 💡 "Code is like humor. When you have to explain it, it’s bad." - Cory House
   
 </div>
