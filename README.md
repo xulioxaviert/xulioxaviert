@@ -1,6 +1,13 @@
-# 👋 ¡Hola! Soy Xulio Xavier
+# Hello there I am Xulio Xaviert 👋
 
-## 🚀 Desarrollador Web Full Stack
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+## My tech stack
+
+## 🚀 Desarrollador Web!
 
 Apasionado por crear experiencias web excepcionales y soluciones tecnológicas innovadoras. Me especializo en el desarrollo de aplicaciones web modernas, escalables y de alto rendimiento.
 
